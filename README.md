@@ -1,4 +1,4 @@
-# Javascript Workshop
+# Javascript Fundamental Workshop
 
 <!-- prettier-ignore-start -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors)
