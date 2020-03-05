@@ -13,6 +13,15 @@
 - asynchronous programming (callback|promise|async-await)
 - asynchronous iteration (for await of|Iterator)
 
+## Setup
+
+After make sure you got the right version, run couple of this command then you should good to go.
+
+```shell
+$ npm install
+```
+You can work with this entire workshop in the browser using codesandbox. Note that sometimes people have trouble with codesandbox not working quite right with tests, but you should be able to work around that. If you're concerned, then it would probably be better to just set things up locally. 
+
 ## Your helpers
 
 Each exercise has comments in it to help you get through the exercise. These fun
