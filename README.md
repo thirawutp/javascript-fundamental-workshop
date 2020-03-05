@@ -8,6 +8,7 @@
 - variable declaration & assignment
 - function declaration (ES5|Es6+)
 - object and class declaration (ES5|ES6+)
+- this scoping (ES5|ES^+)
 - object value accessing (dot|brackets|optional chaining)
 - rest/speared operators on object and array
 - asynchronous programming (callback|promise|async-await)
