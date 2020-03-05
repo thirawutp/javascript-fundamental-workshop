@@ -4,6 +4,15 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors)
 <!-- prettier-ignore-end -->
 
+## Workshop outlines
+- variable declaration & assignment
+- function declaration (ES5|Es6+)
+- object and class declaration (ES5|ES6+)
+- object value accessing (dot|brackets|optional chaining)
+- rest/speared operators on object and array
+- asynchronous programming (callback|promise|async-await)
+- asynchronous iteration (for await of|Iterator)
+
 ## Your helpers
 
 Each exercise has comments in it to help you get through the exercise. These fun
