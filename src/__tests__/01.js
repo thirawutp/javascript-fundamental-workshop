@@ -5,7 +5,8 @@ test('should receive string and return number result', () => {
   expect(typeof (value)).toBe("number")
 })
 
-test('should receive array of string adn return number result', () => {
-  const value = globalScopeVariable([])
+test('should receive array of string and return number result', () => {
+  const value = globalScopeVariable(["fox", "cat", "rat"])
   expect(typeof (value)).toBe("number")
+  expect(value).toBe(9)
 })

@@ -7,6 +7,11 @@ function globalScopeVariable(sentences) {
     var totalCharacters = 0
   }
 
+  if (typeof sentences === "string") {
+    // ❓ calculate length of sentences string
+    // 🦊 using string length function
+  }
+
   // ❓ convert totalCharacters to number and combine with string length 
   // 🦊 using + sign to convert any types to number
 

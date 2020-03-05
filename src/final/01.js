@@ -4,7 +4,12 @@ function globalScopeVariable(sentences) {
       return result + sentence.length
     }, 0)
   }
-  return Number(totalCharacters) + sentences.length
+
+  if (typeof sentences === "string") {
+    totalCharacters = sentences.length
+  }
+
+  return +totalCharacters
 }
 
 export default globalScopeVariable
