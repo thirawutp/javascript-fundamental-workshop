@@ -1,6 +1,10 @@
 # Javascript Workshop
 
-# Contributors
+<!-- prettier-ignore-start -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors)
+<!-- prettier-ignore-end -->
+
+## Contributors
 
 Thanks goes to these wonderful people:
 
@@ -21,5 +25,4 @@ Thanks goes to these wonderful people:
     </td>
   </tr>
 </table>
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
