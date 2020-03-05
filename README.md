@@ -4,7 +4,16 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors)
 <!-- prettier-ignore-end -->
 
-## Contributors
+## Your helpers
+
+Each exercise has comments in it to help you get through the exercise. These fun
+emoji characters are here to help you.
+
+- **question marker** ❓ whenever you see him that means you have a specific thing to do
+- **foxy coach** 🦊 he will show and give you some tips when you need it
+- **granny the director** 🧙‍♂️ he will give you some documentation needed
+
+## Leagues of developers
 
 Thanks goes to these wonderful people:
 
