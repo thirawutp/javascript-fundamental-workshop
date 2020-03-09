@@ -31,6 +31,7 @@ emoji characters are here to help you.
 - **question marker** ❓ whenever you see him that means you have a specific thing to do
 - **foxy coach** 🦊 he will show and give you some tips when you need it
 - **granny the director** 🧙‍♂️ he will give you some documentation needed
+- **bang for 100** 💯 will tell you whenever you get some new challenges, you whether do it or just skip it
 
 ## Leagues of developers
 
