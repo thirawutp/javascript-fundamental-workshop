@@ -8,12 +8,12 @@ const pets = [
 ];
 
 export function petTypeCount() {
-  return pets.reduce((result, pet) => {}, {
+  return pets.reduce((result, pet) => {
     // ❓ implement data count for each type { [type]: amount }  
     // 🧙‍♂️ using object dynamic key and optional object destructuing technique
     // 🦊 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#Accessing_properties
     return result
-  });
+  }, {});
 }
 
 export function letPetTalkByTypeAndName(type, name) {
